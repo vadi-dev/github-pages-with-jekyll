@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Добро пожаловать в мой блог"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Я рад, что ты здесь. Это пошаговый проект на GitHub, созданный при помощи bot github-learning-lab ...
